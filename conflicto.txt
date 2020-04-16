@@ -1,2 +1,2 @@
 hola
-generando conflicto
+generando conflicto, lo resuelvo y añado que esto lo dice la sesión 2
